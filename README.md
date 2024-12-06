@@ -3,7 +3,7 @@
 This web application enables users to securely register, log in, encrypt, and decrypt messages. The platform implements strong password hashing (PBKDF2) and AES encryption to ensure privacy. User sessions are managed with tokens or session IDs, and account deletion is fully supported.
 
 ## Access the Web App
-You can access the live web application by visiting the following link: [Insert your website link here]
+You can access the live web application by visiting the following link: https://message-encryption-app.netlify.app/
 
 ## Features:
 - Secure user authentication with password hashing.
