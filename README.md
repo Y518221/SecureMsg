@@ -24,9 +24,6 @@ You can access the live web application by visiting the following link: [SecureM
 2. **Message Decryption:** Use the same password to decrypt your encrypted message. Only users with access to the correct password can view the original message.
 3. **Account Sharing for Communication:** Share your username and password with someone you want to communicate with, allowing them access to your encrypted messages securely.
 
-## GitHub Repository
-Explore the source code and contribute to the project: [SecureMsg GitHub Repository](https://github.com/Y518221/SecureMsg.git)
-
 ## Future Enhancements:
 - Support for group messaging.
 - Secure file sharing.
