@@ -1,7 +1,7 @@
 import { SignJWT, jwtVerify } from 'jose';
 import CryptoJS from 'crypto-js';
 
-const JWT_SECRET = new TextEncoder().encode('your-secret-key');
+const JWT_SECRET = new TextEncoder().encode('your-secret-key-soon');
 const TOKEN_EXPIRY = '24h';
 
 export interface User {
