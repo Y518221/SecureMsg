@@ -23,7 +23,7 @@ const Register = () => {
     try {
       // Simulating a registration request - replace with actual API call
       const user = { id: '1', username };
-      const token = 'dummy-token'; // Replace with actual token from backend
+      const token = 'dummy-token-soon';
       login(user, token);
       navigate('/dashboard');
     } catch (err) {
